@@ -1,0 +1,8 @@
+*.mdf
+*.ldf
+*.bin
+*.ndf
+
+file_db/mysql/*
+file_db/oracle/*
+file_db/postgres/*

@@ -1,0 +1,1 @@
+# Directorio para guardar archivos de la base de datos SQL Server del container
